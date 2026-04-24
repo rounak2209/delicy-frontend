@@ -1,6 +1,6 @@
-# 🍔 DineDash - Modern Food Delivery App
+# 🍔 Delicy - Modern Food Delivery App
 
-DineDash is a feature-rich, fully responsive food delivery web application inspired by industry giants like Zomato and Swiggy. It offers a premium user interface, advanced search capabilities, and a seamless checkout experience.
+Delicy is a feature-rich, fully responsive food delivery web application inspired by industry giants like Zomato and Swiggy. It offers a premium user interface, advanced search capabilities, and a seamless checkout experience.
 
 ## ✨ Key Features
 
@@ -34,5 +34,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rounak2209/dinedash-frontend.git](https://github.com/rounak2209/dinedash-frontend.git)
-   cd dinedash-frontend
+   git clone [https://github.com/rounak2209/delicy-frontend.git](https://github.com/rounak2209/delicy-frontend.git)
+   cd delicy-frontend
